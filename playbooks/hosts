@@ -1,0 +1,10 @@
+[manager]
+104.197.144.172
+
+[worker]
+34.135.170.236
+34.123.240.246
+
+
+[all:vars]
+ansible_user=deivid
